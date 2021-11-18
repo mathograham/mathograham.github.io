@@ -32,10 +32,10 @@ body {
 /* Style the navigation bar links */
 .navbar a {
   color: Gray;
-  padding: 10px 10px 10px 10px;
+  padding: 20px 108px;
   font-family: "arial";
   text-decoration: none;
-  text-align: center;
+  text-align: left;
 }
 
 }
