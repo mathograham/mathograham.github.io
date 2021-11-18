@@ -1,0 +1,97 @@
+
+
+
+<html>
+    <head>
+        <title>Opal Graham's Personal Page</title>
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+        <link href="//fonts.googleapis.com/css?family=Lobster&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" href="/css/main.css">
+    </head>
+
+
+
+<div class="navbar">
+  <a href="/"> Home </a>
+  <a href="/teaching.html"> Teaching </a>
+  <a href="/research.html"> Research </a>  
+  <a href="/news.html"> News</a>
+  
+ 
+</div>
+
+
+
+
+
+
+<div class="row">
+  <div class="side">
+
+<h2><p style="text-align:center;"><a href="https://ung.edu/mathematics/faculty-staff-bio/opal-graham.php">Opal Graham</a></h2></p><br>
+ <p style="text-align:center;"><img src="Picture1.jpg" width="170" height="auto" ></p><br>
+
+<p style="text-align:center;"> University of North Georgia<br>Department of Mathematics <br><br>
+    <b>Office Hours</b><br>
+    M/T 9:00-12:00 <br>
+    Other times by appt.</p><br>
+<p style="text-align:center;"><b>Fall 2021 Teaching</b><br>
+    <em>Calculus I</em> <br> MTWR 8-9 AM<br>
+	<em>Introduction to Mathematical Proof</em>  <br> TR 12:30 - 1:45 PM <br>
+	<em> Math Models </em> <br> MWF 1-2:50 PM
+	<br><br>
+	
+    <b>Contact</b><br><em>Location:</em> Gainesville Campus<br> <em>Office:</em> Watkins 219<br>opal.graham(at)ung(dot)edu<br>
+   
+
+
+
+</div>
+<div class="main">
+ <h2><p style="text-align:center;">Research</p></h2><br>
+	My research is in Discrete Geometry. Currently, I study discrete configurations of points, circles, and 
+	spheres in n dimensional space. Understanding the uniqueness of these configurations of geometric objects tells us information
+	about the uniqueness of projective polyhedra.<br><br>
+	
+	<h3><p style = "text-alighn:left;">Papers</p></h3>
+	<ul>
+	<li><a href="researchpapers\THE_THESIS.pdf" download ="GrahamThesis">Rigidity of Point and Sphere Configurations</a> (Dissertation)</li>
+	</ul>
+	
+	
+	<br>
+  <h3><p style = "text-alighn:left;">Talks</p></h3>
+  <br>
+	<img src="css\talk.jpg" width="600" height="auto" ><br><br>
+	Here are a few powerpoints from talks I've given in the past year. I frequently give chalk talks.<br><br>
+	<ul>
+	<li>My flashtalk,
+	<a href="css\Correspondence.pdf" download="GrahamTalk1">A Correspondence Between Projective Geometry and Circle Geometry</a>
+	I did for FSU Math Department's <a href="https://www.math.fsu.edu/GSRW/" target="_blank">Graduate Research Week</a> in March 2019.</li>
+	<br>
+	<li>My poster,
+	<a href="css\Poster.pdf" download="GrahamTalk2">Rigidity of Configurations of Points and Spheres</a>
+	I also did for FSU Math Department's <a href="https://www.math.fsu.edu/GSRW/" target="_blank">Graduate Research Week</a>, in which
+	I won 1st prize in the poster contest.</li>
+	<br>
+	<li>My talk, 
+	<a href="css\Rigidity 2.pdf" download="GrahamTalk3">Rigidity of Configurations of Points and Spheres</a>, done for the
+	 <a href="https://www.math.fsu.edu/~ballas/uf_fsu_meeting_2019/" target="_blank">2019 UF-FSU Topology and Geometry Meeting</a> in February.
+	</li></ul>
+	Check the <a href="/news.html" target="_blank">'News'</a> page to see a list of upcoming talks
+	and talks I've given in the past year. 
+	<br><br>
+
+
+
+</div></div>
+
+<!--
+<div class="footer">
+  <h2> <p style="text-align:center;"><a href="https://www.math.fsu.edu/" target="_blank"><img src="{% static "css\fsu2.png" %}" width="250" height="auto" ></a></p><br></h2>
+</div>
+
+ Footer -->
+
+</html>
