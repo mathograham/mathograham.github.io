@@ -13,7 +13,7 @@ body {
 
   
   font-family: arial;
-  margin: 0;
+  margin: 20px;
 }
 
 /* Header/logo Title */
@@ -93,7 +93,7 @@ body {
 .main {
   flex: 60%;
   background-color: rgba(0, 0, 0, 0.0); 
-  padding: 100px;
+  padding: 20px;
 
 }
 
