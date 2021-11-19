@@ -32,7 +32,7 @@ body {
 /* Style the navigation bar links */
 .navbar a {
   color: Gray;
-  padding: 10px 10px 10px 10px;
+  padding: 20px 50px;
   font-family: "arial";
   text-decoration: none;
   text-align: center;
@@ -73,11 +73,11 @@ body {
 /*Style side links*/
 .side a {
   color: Gray;
-  padding: 20px 150px;
+  padding: 20px 100px;
   font-family: arial;
   font-size: 26px;
   text-decoration: none;
-  text-align: left;
+  text-align: center;
 }
 
 /* Change on hover */
